@@ -1,0 +1,20 @@
+/* demo css */
+.container {
+	
+	border: 4px dashed lightblue;
+	
+	width: 50%;
+	margin: 10% auto;
+}
+/* write example css below */
+.box{
+
+	color: red;
+
+	border: 10px solid gray;
+
+	padding: 10%;
+
+	margin: 5% 10%;
+
+	}
